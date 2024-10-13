@@ -26,7 +26,7 @@ float amountDue(char service,char t,int min)
         }
         else
         {
-            charges=0.0;
+            charges=10.0;
         }
     }
     else if(service=='P' ||service=='p')
